@@ -1,0 +1,7 @@
+---
+name: AutoRejoin
+version: 0.0.1
+main: Blackjack200\AutoRejoin\Main
+api: 5.15.1
+src-namespace-prefix: Blackjack200\AutoRejoin
+...
